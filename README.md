@@ -1,0 +1,1 @@
+This document is an enhanced version of Assignment 3 for the course Digital humanities: Tools and Methods. I have added a summary of the limitations of stylometric analysis of two text libraries using the oppose-function in style, based on the original A3 feedbacks.
